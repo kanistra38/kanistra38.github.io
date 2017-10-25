@@ -14,7 +14,7 @@ $(function(){
 		$.ajax({
 			url:data,
 			sucsess:function(data){
-				$('#List'),html(data);
+				$('#List').TEXT(data);
 			}
 		})
 	}
