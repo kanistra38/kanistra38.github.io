@@ -1,7 +1,7 @@
-полуниц€
-малина
-€блун€
-груша
-слива
-персик
-абрикос
+strawberries
+raspberry
+apple
+pear
+plum
+peach
+apricot

@@ -1,1 +1,5 @@
-капуста, шпинат, ендивій, салат, цибуля порей, шніт
+cabbage
+spinach
+salad
+onion
+carrot
