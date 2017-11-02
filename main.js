@@ -6,7 +6,7 @@ $(function(){
 	})
 	
 	$('#vegetables').click(function(){
-		var txtFile = "1.txt";
+		var txtFile = "2.txt";
 	    request(txtFile);
 	})
 	
