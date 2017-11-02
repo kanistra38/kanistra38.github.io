@@ -13,7 +13,7 @@ $(function(){
 	function request (data){
 		$.ajax({
 			url:data,
-			sucsess:function(data){
+			success:function(data){
 				$('#List').text(data);
 			}
 		})
